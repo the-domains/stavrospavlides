@@ -1,0 +1,28 @@
+name: StavrosPavlides
+favicon: null
+layout_spectrum: 0.8987817675806582
+typography_spectrum: 0.07023791153915226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6060694183688611
+  lightness: 0.3504122586455196
+  saturation: 0.9297944761347026
+  rhythmicContrast: 0.287829112727195
+purpose: []
