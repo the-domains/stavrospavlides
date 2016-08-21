@@ -1,20 +1,4 @@
-name: StavrosPavlides
-favicon: null
-layout_spectrum: 0.25149
 typography_spectrum: 0.35034
-title: Stavros Pavlides Art
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3504122586455196
   saturation: 0.9297944761347026
   rhythmicContrast: 0.287829112727195
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25149
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: StavrosPavlides
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Stavros Pavlides Art
+description: Always be better
 purpose: []
